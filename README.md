@@ -5,7 +5,7 @@ In this course I explain the basics and some common advanced pitfalls of JavaScr
 
 Source files for the Tuts+ course: [JavaScript for PHP Developers](https://code.tutsplus.com/courses/javascript-for-php-developers)
 
-### Instructor Notes
+### Usage Notes
 
 * The example PHP application can be found in the /php directory
 * The JavaScript starter files are found in the /js directory
